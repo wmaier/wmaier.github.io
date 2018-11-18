@@ -1,0 +1,181 @@
+phenomenon,s,yield,cat,other cat,additional
+Extraposed modifiers,11,[12][14-19],NP-OA,VP-MNR,
+Extraposed modifiers,194,[5-7][10-19],NP-OA,S-RC,
+Extraposed modifiers,2907,[7][11-21],NP-CJ,S-RC,
+Extraposed modifiers,768,[16-20][22-25],NP-SB,NP-APP,
+Extraposed modifiers,4439,[5-8][10-17],CNP-NK,S-RC,
+Extraposed modifiers,415,[3-9][11-21],PP-MO,S-MNR,
+Extraposed modifiers,934,[10-16][18-25],PP-OP,NP-APP,
+Extraposed modifiers,3105,[6-7][9-15],PP-OP,S-RC,
+Extraposed modifiers,1116,[8-11][13-21],VP-OC,S-MO,
+Extraposed modifiers,5287,[4-6][8-22],NP-PD,CNP-APP,
+Extraposed modifiers,4964,[10-13][15-22],NP-OA,S-RC,PH-RE
+Extraposed modifiers,3214,[21-22][24-37],NP-SB,S-RC,Extraposed modifiers
+Extraposed modifiers,3214,[9-16][18-37],PP-OP,S-RC,Extraposed modifiers
+Extraposed modifiers,4080,[4-7][11-29],PP-MO,S-RC,PH-RE
+Extraposed modifiers,936,[12][14-16][18-22],VP-OC,PP-MO,Pronouns
+Extraposed arguments,165,[4-7][10-13],NP-PD,PP-OP,
+Extraposed arguments,733,[15-17][19-24],NP-SB,CVP-OC,
+Extraposed arguments,962,[33-35][37-43],NP-OA,VP-OC,
+Extraposed arguments,2739,[7-8][11-22],NP-SB,S-OC,
+Extraposed arguments,3589,[8-15][17-34],NP-DA,VP-OC,
+Extraposed arguments,2195,[4-6][8-15],PP-MO,S-OC,
+Extraposed arguments,2950,[11-13][17-20],PP-MO,VP-OC,
+Extraposed arguments,67,[16][18-21],VP-OC,S-OC,
+Extraposed arguments,110,[12-13][15-17],VP-PD,PP-OP,
+Extraposed arguments,3258,[7][9-16],VP-OC,VP-OC,
+Extraposed arguments,3923,[10-11][13-18],AP-PD,VP-OC,
+Extraposed arguments,4079,[6-7][9-20],NP-OA,S-OC,Scrambling
+Extraposed arguments,567,[3-5][7-14],NP-OA,S-OC,Extraposed arguments
+Extraposed arguments,567,[18-20][22-25],PP-MO,S-OC,Extraposed arguments
+Extraposed arguments,4618,[4][7][9-21],VP-OC,S-OC,"Scrambling, Scrambling"
+Extraposition (coordination),45,[1][5-8],CNP-SB,-,
+Extraposition (coordination),435,[5-9][11-15],CPP-MO,-,
+Extraposition (coordination),467,[5-15][17-31],CPP-MO,-,
+Extraposition (coordination),490,[16-18][20-27],CPP-MO,-,
+Extraposition (coordination),767,[8-13][15-45],CNP-NK,-,
+Extraposition (coordination),857,[14-18][20-27],CNP-OA,-,
+Extraposition (coordination),4427,[5-16][18-21],CPP-OP,-,
+Extraposition (coordination),4858,[4][6-10],CO-MO,-,
+Extraposition (coordination),4970,[4-6][9-15],CPP-MO,-,
+Extraposition (coordination),5008,[8-9][11-17],CNP-OA,-,
+Extraposition (coordination),5085,[7-13][15-19],CVP-OC,-,
+Extraposition (coordination),5234,[11-14][16-23],CNP-OA,-,
+Extraposition (coordination),5233,[4-6][8-25],CPP-OP,-,
+Extraposition (coordination),5319,[5-9][11-22],CPP-MO,-,
+Extraposition (coordination),373,[11-20][34-37],CNP-SB,-,Pronouns
+Extraposition (comparison),96,[5-9][11-12],AP-MO,VP-CC,
+Extraposition (comparison),111,[16-18][20-26],AP-MO,PP-CC,
+Extraposition (comparison),1758,[10-11][13-16],AP-PD,PP-CC,
+Extraposition (comparison),3657,[17][20-21],AP-MO,VP-CC,
+Extraposition (comparison),4191,[9][12-17],AP-MO,VP-CC,
+Extraposition (comparison),69,[4][6-11],AVP-MO,S-CC,
+Extraposition (comparison),145,[13][15-18],AVP-MO,S-CC,
+Extraposition (comparison),392,[10][15-25],AVP-MO,S-CC,
+Extraposition (comparison),444,[8][10-17],AVP-MO,S-CC,
+Extraposition (comparison),2850,[5][7-11],AVP-MO,NP-CC,
+Extraposition (comparison),3230,[9-12][14-17],AVP-MO,PP-CC,
+Extraposition (comparison),4759,[3][5-9],AVP-MO,NP-CC,
+Extraposition (comparison),5042,[9][12-15],AP-NK,PP-CC,PH/RE
+Extraposition (comparison),984,[7][9-23],AVP-MO,S-CC,PH/RE
+Extraposition (comparison),1914,[10][15-32],AVP-MO,S-CC,Scrambling
+Extraposition (focus adverb),1108,[7][9-15],S-MO,-,
+Extraposition (focus adverb),2495,[5][7-12],S-MO,-,
+Extraposition (focus adverb),4671,[7][10-17],S-MO,-,
+Extraposition (focus adverb),223,[5][8-21],S-CJ,-,Topicalization VP mod/arg
+Extraposition (focus adverb),575,[9][11-15],S-MO,-,Topicalization VP mod/arg
+PH/RE,2300,[10][12-23],NP-SB,S-RE,
+PH/RE,2343,[1][3-4],NP-SB,NP-RE,
+PH/RE,2355,[5][7-14],NP-SB,VP-RE,
+PH/RE,2440,[1][6-16],NP-SB,S-RE,
+PH/RE,3245,[7][9-25],PP-MO,S-RE,
+PH/RE,3255,[3][5-17],PP-MO,VP-RE,
+PH/RE,5213,[1][10-15],NP-SB,VP-RE,
+PH/RE,633,[1-3][4-11],AVP-MO,S-RE,Parenthetical
+PH/RE,645,[1-4][11-17],AVP-MO,S-RE,Parenthetical
+PH/RE,984,[25][27-30],NP-SB,VP-RE,Extraposition (comparison)
+PH/RE,4964,[16][19-22],NP-SB,VP-RE,Extraposed modifiers
+PH/RE,4080,[13][16-29],PP-MO,CVP-RE,Extraposed modifiers
+PH/RE,5042,[2][4-15],NP-SB,S-RE,Extraposition (comparison)
+PH/RE,4627,[17][20-31],NP-OA,S-RE,Topicalization Other
+PH/RE,2017,[5][9-28],NP-SB,VP-RE,Topicalization Other
+Topicalization VP mod/arg,64,[1][4],VP-OC,ADV-MO,
+Topicalization VP mod/arg,677,[1-5][7-9],VP-OC,PP-MO,
+Topicalization VP mod/arg,2204,[1-7][16-18],VP-OC,PP-MO,
+Topicalization VP mod/arg,2301,[1-3][7-17],VP-OC,PP-MO / ADV-MO,
+Topicalization VP mod/arg,593,[1-3][6],VP-OC,NP-OA,
+Topicalization VP mod/arg,1428,[1-6][9-12],VP-OC,PP-OP,
+Topicalization VP mod/arg,2049,[1-2][6-33],VP-OC,NP-OA,
+Topicalization VP mod/arg,2278,[1][4-9],VP-OC,PROAV-MO,
+Topicalization VP mod/arg,1883,[16-18][26-28],VP-OC,PP-MO,Local movement (phrase)
+Topicalization VP mod/arg,89,[1-5][7][11-24],VP-OC,PP-MO,"Local movement (phrase), Scrambling"
+Topicalization VP mod/arg,2520,[1-3][7-19],VP-PD,PP-MO,Topicalization VP HD
+Topicalization VP mod/arg,1106,[1-5][7][15],VP-OC,PP-MO,Scrambling
+Topicalization VP mod/arg,1066,[1][3-4][7],VP-OC,PROAV-MO,Scrambling
+Topicalization VP mod/arg,223,[1-2][4][6],VP-OC,NP-OA,Extraposition (focus adverb)
+Topicalization VP mod/arg,575,[3-5][8-15],VP-OC,CNP-OA,Extraposition (focus adverb)
+Topicalization VP HD,5194,[1][3-4],VP-PD,VVPP-HD,
+Topicalization VP HD,4061,[1][4-16],VP-OC,VVPP-HD,
+Topicalization VP HD,3126,[1][5-9],VP-OC,VVINF-HD,
+Topicalization VP HD,395,[1][3-5],VP-OC,VVPP-HD,
+Topicalization VP HD,349,[1][7-11],VP-OC,VVPP-HD,
+Topicalization VP HD,2238,[1][3-5],VP-OC,VVPP-HD,
+Topicalization VP HD,2879,[1][3][18-20],VP-OC,VVPP-HD,Scrambling
+Topicalization VP HD,4554,[5][10-12],VP-OC,VVPP-HD,Topicalization VP HD
+Topicalization VP HD,4554,[5-6][10-12],VP-OC,VAINF-HD,Topicalization VP HD
+Topicalization VP HD,2520,[1-3][7-19],VP-PD,VVPP-HD,Topicalization VP mod/arg
+Topicalization Other,800,[1-3][10-12],NP-OA,PP-PG,
+Topicalization Other,86,[1][4],NP-OA,PROAV-MNR,
+Topicalization Other,537,[1-5][9-10],NP-OA,PP-MNR,
+Topicalization Other,4499,[1-3][7-8],PP-CJ,PP-MO,
+Topicalization Other,4627,[1-2][13],AP-PD,NP-DA,PH/RE
+Topicalization Other,577,[2][7-9],NP-OA,NN-NK,
+Topicalization Other,2141,[1-31][41-51],NP-SB,CNP-NK,
+Topicalization Other,328,[1-3][9-11],NP-OA,"ADV-MO, ADV-MO, CARD-NK",
+Topicalization Other,1443,[1][6],NP-SB,NN-NK,
+Topicalization Other,2017,[1-3][6-8],NP-PD,"NE-AG, ADJA-NK, NN-NK",PH/RE
+Scrambling,650,[3][6-9],VP-OC,-,
+Scrambling,659,[3][7-8],VP-OC,-,
+Scrambling,705,[12-16][21],VP-OC,-,
+Scrambling,742,[26][28-29],VP-OC,-,
+Scrambling,2251,[3][6-14],VP-OC,-,
+Scrambling,1070,[13-15][19],VP-OC,-,
+Scrambling,960,[1-12][19][22-29],VP-OC,-,Parenthetical
+Scrambling,1914,[21-22][25-31],VP-OC,-,Extraposition (comparison)
+Scrambling,4079,[13-18][20],VP-OC,-,Extraposed arguments
+Scrambling,4618,[13-14][18-20],VP-OC,-,"Extraposed arguments, Scrambling"
+Scrambling,4618,[4-7][9-21],VP-OC,-,"Extraposed arguments, Scrambling"
+Scrambling,89,[1-5][7][11-24],VP-OC,-,"Local movement (phrase), Topicalization VP mod/arg"
+Scrambling,2879,[1][3][18-20],VP-OC,-,Topicalization VP HD
+Scrambling,1106,[1-5][7][15],VP-OC,-,Topicalization VP mod/arg
+Scrambling,1066,[1][3-4][7],VP-OC,-,Topicalization VP mod/arg
+Local Movement (clause),375,[1][3],NP-SB,-,
+Local Movement (clause),1794,[8][12],NP-SB,-,
+Local Movement (clause),2640,[3][5],NP-SB,-,
+Local Movement (clause),2641,[10][12],NP-SB,-,
+Local Movement (clause),3205,[4-6][8-10],NP-OA,-,
+Local Movement (clause),3441,[5-12][14-22],NP-OA,-,
+Local Movement (clause),3890,[3][7-10],NP-SB,-,
+Local Movement (clause),4914,[3][5-8],NP-SB,-,
+Local Movement (clause),4962,[7-8][11-13],NP-OA,-,
+Local Movement (clause),1597,[1-4][6-9],NP-SB,-,
+Local Movement (phrase),2296,[8][10-11],AP-NK,NP-MO,
+Local Movement (phrase),753,[11][14-18],AP-NK,PP-MO,
+Local Movement (phrase),1037,[11][18-22],AP-NK,PP-MO,
+Local Movement (phrase),1873,[13][17-20],AP-NK,PP-MO,
+Local Movement (phrase),1888,[5-7][9-12],AP-NK,PP-CC,
+Local Movement (phrase),2483,[9][11-12],AVP-MO,NP-CC,
+Local Movement (phrase),3021,[6-7][9-14],NP-CJ,PP-MO,
+Local Movement (phrase),180,[1][3-7],AVP-MO,NP-CC,
+Local Movement (phrase),89,[19][21-22],AVP-MO,AP-CC,"Scrambling, Topicalization VP mod/arg"
+Local Movement (phrase),1883,[20-21][23-25],AP-NK,AP-CC,Topicalization VP mod/arg
+Prononouns,189,[4][7-9],VP-OC,-,
+Prononouns,244,[17-18][20-25],VP-OC,-,
+Prononouns,268,[1][5],VP-OC,-,
+Prononouns,308,[10-12][16-26],VP-OC,-,
+Prononouns,310,[7][9],VP-OC,-,
+Prononouns,348,[12][15-19],VP-OC,-,
+Prononouns,359,[10-12][15-18],VP-OC,-,
+Prononouns,933,[9][14-20],VP-OC,-,
+Prononouns,933,[22][25-33],VP-OC,-,
+Prononouns,2629,[11][15-17],VP-OC,-,
+Prononouns,2710,[18][21],VP-OC,-,
+Prononouns,2715,[7-8][25],VP-OC,-,
+Prononouns,48,[20][23],VP-OC,-,Parentheticals
+Prononouns,373,[25][27-32],VP-OC,-,Extraposition (Coordination)
+Prononouns,936,[14][16-18][20-24],VP-OC,-,Extraposed modifiers
+Parentheticals,323,[1-3][8-15],S,-,
+Parentheticals,324,[1-2][7-26],S,-,
+Parentheticals,365,[1-2][14-18],S,-,
+Parentheticals,374,[1-2][5-13],S,-,
+Parentheticals,393,[1-2][7-12],S,-,
+Parentheticals,2688,[1-3][6-9],CS,-,
+Parentheticals,2982,[1-2][7-20],S,-,
+Parentheticals,3063,[1-8][15-28],S,-,
+Parentheticals,3073,[1-6][11-17],S,-,
+Parentheticals,3123,[1-5][8-12],S,-,
+Parentheticals,3132,[1][4-9],S,-,
+Parentheticals,633,[1-2][6-13],S,-,
+Parentheticals,645,[1-3][11-17],S,-,
+Parentheticals,48,[1-4][8-24],S,-,Pronouns
+Parentheticals,960,[1-12][18-29],S,-,Scrambling

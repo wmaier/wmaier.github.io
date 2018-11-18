@@ -1,7 +1,53 @@
 <html>
-<head>
-<meta http-equiv="refresh" content="0; url=http://wolfgang-maier.net/" />
-</head>
-<body>
-</body>
+  <head>
+    <title>Wolfgang Maier</title>
+    <link rel="stylesheet" href="css/all.min.css"/>
+    <link rel="stylesheet" href="css/academicons.min.css"/>
+    <link rel="stylesheet" href="css/styles.min.css"/>
+    <meta charset="UTF-8">
+    <meta name="description" content="Wolfgang Maier's personal homepage.">
+    <meta name="author" content="Wolfgang Maier">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script> <!--
+function decrypt(s, shift) {
+	var n=0;
+	var r="";
+	for(var i=0;i<s.length;i++) { 
+		n=s.charCodeAt(i); 
+		if (n>=8364) {n = 128;}
+		r += String.fromCharCode(n-(shift)); 
+	}
+	return r;
+}
+function l_decrypt(s, shift)	{
+	location.href=decrypt(s, shift);
+}
+// --> </script>
+  </head>
+  <body>
+    <div style="position: absolute; top: 20%; left: 50%; margin-right: -50%; transform: translate(-50%, -50%)">
+      <div style="text-align:center; font-size:250%; padding:1em; font-family:firasans; font-weight:regular;">
+	Wolfgang Maier
+      </div>
+      <hr style="height:1px; background:#AAA; border:0;"/>
+      <div style="text-align:center; padding-bottom:2em;">
+	<a href="https://github.com/wmaier/"><i class="fab fa-github-square ai-2x"></i></a>
+	<a href="https://scholar.google.de/citations?user=XyQ_M4YAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+	<a href="https://linkedin.com/in/wolfgangmaier1/"><i class="fab fa-linkedin ai-2x"></i></a>
+	<a href="https://www.xing.com/profile/Wolfgang_Maier3"><i class="fab fa-xing-square ai-2x"></i></a>
+      </div>
+      <div style="padding-top:1em; text-align:center; font-family:firasans">
+<a href="javascript:l_decrypt('ocknvq<yqnhicpi0ockgtBiockn0eqo', 2);">contact</a> &middot; <a href="#openPrivacy">privacy</a>
+      </div>
+      <div id="openPrivacy" class="modalDialog">
+	<div>
+	  <a href="#close" title="Close" class="close">X</a>
+	  <h2>Data Protection Policy (GDPR)</h2>
+	  <p>This website does not collect, store or process Personally Identifiable Information (PII). This website does not require the use of cookies.</p>
+	  <h3>Third Party Inclusion</h3>
+	  <p>This website is hosted by <a href="https://www.github.com">Github</a> using <a href="https://help.github.com/articles/what-is-github-pages/">Github Pages</a>. The Github Global Privacy Practices are available <a href="https://help.github.com/articles/global-privacy-practices/">here</a></p>
+	</div>
+      </div>
+    </div>
+  </body>
 </html>
