@@ -15,21 +15,85 @@ a:hover {
     src: url(https://wmaier.github.io/webfonts/FiraSans-Regular.ttf) format('truetype')
 }
 
+/* link stuff ***************************************************************/
+a {
+    text-decoration: none;
+}
+
 a:active,
 a:link,
 a:visited {
-    color: #444;
-    text-decoration: none
+    color: #000
 }
 
 a:hover {
-    color: grey
+    color: #6c7a7d
+}
+
+
+/* main ********************************************************************/
+
+.main {
+    height: 100%;
+    width: 75%;
+    min-width: 200px;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    font-family: firasans;
+    font-weight: regular;
+}
+
+#nav {
+    word-spacing: 10px;
+    margin: auto;
+}
+
+.separator {
+    height: 1px;
+    background: #DDD;
+    border: 0;
+}
+
+.news {
+    padding: 2px;
+}
+
+.content {
+    padding: 2px;
+}
+
+.content>ul {
+    list-style-type: none;
+    width: 90%
+}
+
+.content>ul>li {
+    text-indent: -1em;
+    line-height: 1.4em;
+    margin-bottom: .3em;
+}
+
+a.c:link, a.c:visited, a.c:active {
+    text-decoration:underline;
+}
+
+a.c:hover {
+    text-decoration:none;
+}
+
+/* footer *************************************************/
+
+#linkbar {
+    text-align: center;
+    margin-top: 1em;
+    padding-bottom: 2em;
 }
 
 .modalDialog {
     position: fixed;
     font-family: Arial, Helvetica, sans-serif;
-    top: 60%;
+    top: 10%;
     right: 0;
     bottom: 0;
     left: 0;
@@ -60,7 +124,7 @@ a:hover {
 }
 
 .close {
-    background: #606061;
+    background: #6c7a7d;
     color: #FFF;
     line-height: 25px;
     position: absolute;
@@ -78,5 +142,5 @@ a:hover {
 }
 
 .close:hover {
-    background: #00d9ff
+    background: #eec015
 }
