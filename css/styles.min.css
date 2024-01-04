@@ -1,0 +1,112 @@
+.close,
+a:hover {
+    text-decoration: none
+}
+
+@font-face {
+    font-family: firasans;
+    font-weight: "bold";
+    src: url(https://wmaier.github.io/webfonts/FiraSans-Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: firasans;
+    font-weight: "regular";
+    src: url(https://wmaier.github.io/webfonts/FiraSans-Regular.ttf) format('truetype')
+}
+
+/* link stuff ***************************************************************/
+a {
+    text-decoration: none;
+}
+
+a:active,
+a:link,
+a:visited {
+    color: #555
+}
+
+a:hover {
+    color: #6c7a7d
+}
+
+
+/* main ********************************************************************/
+
+.main {
+    height: 100%;
+    width: 75%;
+    min-width: 250px;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    font-family: firasans;
+    font-weight: regular;
+}
+
+#title {
+    font-size: 2em;
+    line-height: 3em;
+}
+
+#nav {
+    word-spacing: 10px;
+    margin: auto;
+}
+
+.separator {
+    height: 1px;
+    background: #DDD;
+    border: 0;
+}
+
+.col {
+    padding: 2px;
+    flex: 1
+}
+
+.content {
+    padding: 2px;
+    width: 100%;
+}
+
+.contentflex {
+    display: flex;
+    padding: 2px;
+    width: 100%;
+}
+
+.content>ul {
+    list-style-type: none;
+    width: 90%
+}
+
+.content>ul>li {
+    text-indent: -1em;
+    line-height: 1.4em;
+    margin-bottom: .3em;
+}
+
+a.c:link,
+a.c:visited,
+a.c:active {
+    text-decoration: underline;
+}
+
+a.c:hover {
+    text-decoration: none;
+}
+
+/* footer *************************************************/
+
+#linkbar {
+    text-align: center;
+    margin-top: 1em;
+    padding-bottom: 2em;
+    word-spacing: 10px;
+}
+
+#bottombar {
+    padding-top: 1em;
+    text-align: center;
+}
