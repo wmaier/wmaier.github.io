@@ -1,0 +1,8 @@
+Font Awesome Free 5.5.0
+
+License summary from css/all.min.css:
+- Icons: CC BY 4.0
+- Fonts: SIL OFL 1.1
+- Code: MIT License
+
+Full license details: https://fontawesome.com/license/free
