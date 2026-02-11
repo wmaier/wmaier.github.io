@@ -384,6 +384,10 @@ p {
   transition: opacity 0.15s ease, transform 0.15s ease;
 }
 
+.privacy:not([data-tooltip])::after {
+  display: none;
+}
+
 .privacy:hover::after,
 .privacy:focus::after {
   opacity: 0.95;
